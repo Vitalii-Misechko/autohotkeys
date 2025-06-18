@@ -34,6 +34,9 @@
 #2::F2
 #1::F1
 
+; Russian ы 
+:*?:ьі::ы
+
 ; Turkish Special Characters Hotstring Script for AutoHotkey v2
 :*?:^c::ç
 :*?:^C::Ç
