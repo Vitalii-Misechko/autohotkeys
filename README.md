@@ -3,3 +3,5 @@
 
 * TMKB T68SE
   * Turkish Special Characters
+* AJAZZ AK870MC
+  * Turkish Special Characters
