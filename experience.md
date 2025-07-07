@@ -21,6 +21,7 @@
 - Keys are more spaced out
 - F-keys are present
 - Good build quality
+- How it sounds 
 
 ### Cons:
 
