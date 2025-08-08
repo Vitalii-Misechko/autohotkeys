@@ -3,6 +3,9 @@
 
 ; Russian ы from ьi
 :*?:ьі::ы
+; Russian э from ьє
+:*?:ьє::э
+:*?:ьЄ::Э
 
 ; Turkish Special Characters Hotstring Script for AutoHotkey v2
 :*?:^c::ç
